@@ -1,4 +1,4 @@
-# go-crud ![alt text][build_status]
+# go-crud !
 
 an example rest api in golang and mysql
 
